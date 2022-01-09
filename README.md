@@ -1,7 +1,7 @@
 Hello, my Name is MOBSkuchen.
 
-My main Programming language is Python (obviously),
-and I just want to show my Projects!
+Im a young developer from Germany,
+and I like to show my Projects here!
 
 
 (Contact Information)
