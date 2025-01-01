@@ -2,5 +2,5 @@ Hello, my Name is MOBSkuchen.
 
 
 (Contact Information)
-
-Twitter: MOBSkuchen (MSkuchen)
+BlueSky (preffered): MOBSkuchen (@mobskuchen.bsky.social)
+Twitter: MOBSkuchen (@MSkuchen)
